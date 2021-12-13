@@ -1,7 +1,7 @@
 <h1 align="center">🌎Hello! 👋 I'm Sobhan Dash</h1>
 <h3 align="center">I am a self-taught web developer with a strong eye for innovative design and a keen understanding of techniques geared toward optimum user experience👨‍💻.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SobhanDash&color=5000b8&style=flat-square" alt="Sobhan Dash" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NeoSobhan&color=5000b8&style=flat-square" alt="Sobhan Dash" /> </p>
 
 - 🌱 I’m currently learning **ReactJS, NodeJS**
 
@@ -30,13 +30,13 @@
 
 
 <p width="100%" align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=SobhanDash&count_private=true&show_icons=true&theme=radical" height="170px">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SobhanDash&layout=compact&theme=radical" height="170px">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=NeoSobhan&count_private=true&show_icons=true&theme=radical" height="170px">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeoSobhan&layout=compact&theme=radical" height="170px">
 </p>
 
 <br/>
 
-<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=SobhanDash&bg_color=000000&color=70A4FC&line=A259FF&point=1adbce&area=true&hide_border=false" />
+<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=NeoSobhan&bg_color=000000&color=70A4FC&line=A259FF&point=1adbce&area=true&hide_border=false" />
 
 <br/>
 
@@ -52,8 +52,5 @@
 
 [<img align="left" alt="Instagram" width="40" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />](mailto:sobhan7dash@gmail.com)
 
-<!-- https://www.linkedin.com/in/sobhan-dash-9b5b38186/ -->
-<!-- https://dev.to/sobhandash -->
-<!-- mailto: sobhan7dash@gmail.com -->
 <br />  
 <br />
