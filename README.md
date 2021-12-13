@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **sobhan7dash@gmail.com**
 
+- 🎈 Fun Fact: You can use your current email with a +1, +2...before @xyz.com, whenever you have an email already taken situation.
+
 ## Languages And Skills:
 
 <p align="left"> 
